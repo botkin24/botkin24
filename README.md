@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Максим Боткин | Data Analyst
 
 ## О себе
-Junior Data Analyst с опытом анализа игрового рынка, сервисов аренды и недвижимости. Специализируюсь на проверке бизнес-гипотез, статистическом анализе и визуализации данных. В проектах доказываю практическую пользу: увеличивал метрики, выявлял драйверы роста, давал рекомендации для бизнеса.
+Junior Data (BI) Analyst с опытом анализа игрового рынка, сервисов аренды и недвижимости. Специализируюсь на проверке бизнес-гипотез, статистическом анализе и визуализации данных. В проектах доказываю практическую пользу: увеличивал метрики, выявлял драйверы роста, давал рекомендации для бизнеса.
 
 Ищу первую работу в аналитике данных, чтобы развивать навыки и приносить реальную ценность компании.
 
@@ -26,10 +26,10 @@ Junior Data Analyst с опытом анализа игрового рынка, 
 **Базы данных:** PostgreSQL, MySQL
 **Инструменты:** Git, Jupyter Notebook, Excel
 
-## 📊 Проекты
-- [Анализ игрового рынка](https://github.com/botkin24/Data-Analytics/tree/main/games-market-analysis)
-- [Анализ сервиса аренды самокатов](https://github.com/botkin24/Data-Analytics/tree/main/scooter-rental-analysis)
-- [Анализ рынка недвижимости](https://github.com/botkin24/Data-Analytics/tree/main/real-estate-market-analysis)
+## 📊 Портфолио
+- [BI - Аналитика](https://github.com/botkin24/BI-Analytics)
+- [Data - Аналитика](https://github.com/botkin24/Data-Analytics)
+- [Data Science](https://github.com/botkin24/Data-Science)
 
 ## 📫 Контакты
 - Email: botkin2410@mail.ru
