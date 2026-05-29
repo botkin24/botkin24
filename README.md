@@ -33,7 +33,7 @@ Junior Data Analyst с опытом анализа игрового рынка, 
 
 ## 📫 Контакты
 - Email: botkin2410@mail.ru
-- Telegram: @m1xqm
+- Telegram: https://t.me/mbotkin
 - VK: vk.com/mqx1m
 
 ## 🔍 Статус
