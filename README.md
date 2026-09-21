@@ -1,28 +1,28 @@
 # Максим Боткин | Data Analyst
 
 ## О себе
-Начинающий Data Analyst, развивающий портфолио на базе прикладных аналитических проектов: EDA, статистический анализ, BI-дашборды, SQL-аналитика и построение воспроизводимых пайплайнов данных.
 
-Имею опыт как в продуктовой/маркетинговой аналитике (исследования рынков, когортный анализ, стат-тесты), так и в решении задач Data Science. В проектах всегда ориентируюсь на измеримую бизнес-ценность: помогаю находить точки роста, оптимизировать маржинальность и автоматизировать рутинные процессы.
+Начинающий дата-аналитик, развиваю портфолио на базе прикладных аналитических проектов: EDA, статистический анализ, SQL-аналитика, A/B-тестирование и BI-дашборды.
+
+Имею практический опыт работы с реальными бизнес-данными: самостоятельно спроектировал и внедрил автоматизацию отчётности, ABC/XYZ-анализ и систему контроля себестоимости на данных объёмом более 1 млн строк. В проектах ориентируюсь на измеримую бизнес-ценность.
 
 ## 🛠 Технологии и инструменты
 
-**Языки:** Python, SQL  
-**Анализ данных:** Pandas, NumPy, SciPy, Statsmodels  
-**Современная обработка данных:** Polars, DuckDB, PyArrow  
-**BI и визуализация:** Power BI, Yandex DataLens, Plotly, Matplotlib  
-**Базы данных:** PostgreSQL, ClickHouse, MySQL  
-**Инструменты:** Git, GitHub, Jupyter, VS Code, Excel
+**Языки:** Python, SQL
+**Анализ данных:** Pandas, NumPy, SciPy, Statsmodels, Scikit-learn
+**BI и визуализация:** Power BI, Yandex DataLens, Plotly, Matplotlib, Seaborn
+**Базы данных:** PostgreSQL, ClickHouse
+**Инструменты:** Git, GitHub, Jupyter, DBeaver, Excel
 
 ## 📊 Портфолио
-- [BI - Аналитика](https://github.com/botkin24/BI-Analytics)
-- [Data - Аналитика](https://github.com/botkin24/BI-Analyst)
-- [Data Science](https://github.com/botkin24/Data-Science)
+
+- [SaaS Product Analytics](https://github.com/botkin24/saas_analytics) — сквозной проект по продуктовой аналитике: EDA, статистика, A/B-тестирование (в разработке)
 
 ## 📫 Контакты
+
+- Telegram: [@mbotkin](https://t.me/mbotkin)
 - Email: botkin2410@mail.ru
-- Telegram: https://t.me/mbotkin
-- VK: vk.com/mqx1m
 
 ## 🔍 Статус
-Открыт для предложений о работе
+
+Открыт для предложений о работе (дата-аналитик / продуктовый аналитик)
