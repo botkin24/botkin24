@@ -16,6 +16,7 @@
 
 ## 📊 Портфолио
 
+- [Data Analytics Portfolio](https://github.com/botkin24/Data-Analytics) — 3 завершённых проекта: EDA рынка недвижимости, статистический анализ (t-тесты, ANOVA) сервиса аренды самокатов, A/B-тестирование игрового рынка
 - [SaaS Product Analytics](https://github.com/botkin24/saas_analytics) — сквозной проект по продуктовой аналитике: EDA, статистика, A/B-тестирование (в разработке)
 
 ## 📫 Контакты
